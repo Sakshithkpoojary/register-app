@@ -94,4 +94,5 @@ stage("Trigger CD Pipeline") {
             }
        }
     }
+}
 
