@@ -84,8 +84,6 @@ environment {
            }
        }
 
-  }
-}
 stage("Trigger CD Pipeline") {
             steps {
                 script {
